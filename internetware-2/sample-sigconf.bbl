@@ -1,0 +1,160 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{11}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Association for Computing
+  Machinery}{Association for Computing Machinery}{2007}]%
+        {swim}
+Association for Computing Machinery \bibinfo{year}{2007}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{ACM} Visual Identity Standards}}.
+\newblock Association for Computing Machinery.
+\newblock
+\newblock
+\shownote{\url{http://identitystandards.acm.org}.}
+
+
+\bibitem[\protect\citeauthoryear{Brito}{Brito}{2009}]%
+        {cobra}
+\bibfield{author}{\bibinfo{person}{Rog\'erio Brito}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The algorithms bundle}}.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/algorithms}.}
+
+
+\bibitem[\protect\citeauthoryear{Carlisle}{Carlisle}{2004}]%
+        {mpc}
+\bibfield{author}{\bibinfo{person}{David Carlisle}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The \textsl{textcase} package}}.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/textcase}.}
+
+
+\bibitem[\protect\citeauthoryear{Downes and Beeton}{Downes and Beeton}{2004a}]%
+        {GA}
+\bibfield{author}{\bibinfo{person}{Michael Downes} {and}
+  \bibinfo{person}{Barbara Beeton}.} \bibinfo{year}{2004}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{The \textsf{amsart}, \textsf{amsproc}, and
+  \textsf{amsbook} document~classes}}.
+\newblock American Mathematical Society.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/amslatex}.}
+
+
+\bibitem[\protect\citeauthoryear{Downes and Beeton}{Downes and Beeton}{2004b}]%
+        {mape-k}
+\bibfield{author}{\bibinfo{person}{Michael Downes} {and}
+  \bibinfo{person}{Barbara Beeton}.} \bibinfo{year}{2004}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{The \textsf{amsart}, \textsf{amsproc}, and
+  \textsf{amsbook} document~classes}}.
+\newblock American Mathematical Society.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/amslatex}.}
+
+
+\bibitem[\protect\citeauthoryear{Downes and Beeton}{Downes and Beeton}{2004c}]%
+        {clarknet}
+\bibfield{author}{\bibinfo{person}{Michael Downes} {and}
+  \bibinfo{person}{Barbara Beeton}.} \bibinfo{year}{2004}\natexlab{c}.
+\newblock \bibinfo{booktitle}{\emph{The \textsf{amsart}, \textsf{amsproc}, and
+  \textsf{amsbook} document~classes}}.
+\newblock American Mathematical Society.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/amslatex}.}
+
+
+\bibitem[\protect\citeauthoryear{Fiorio}{Fiorio}{2015}]%
+        {pla}
+\bibfield{author}{\bibinfo{person}{Cristophe Fiorio}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{a}lgorithm2e.sty---package for
+  algorithms}}.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/algorithm2e}.}
+
+
+\bibitem[\protect\citeauthoryear{Sommerfeldt}{Sommerfeldt}{2013}]%
+        {rubis-1}
+\bibfield{author}{\bibinfo{person}{Axel Sommerfeldt}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The subcaption package}}.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/subcaption}.}
+
+
+\bibitem[\protect\citeauthoryear{Talbot}{Talbot}{2016}]%
+        {brownout}
+\bibfield{author}{\bibinfo{person}{Nicola L.~C. Talbot}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{User Manual for glossaries.sty v4.25}}.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/subcaption}.}
+
+
+\bibitem[\protect\citeauthoryear{{UK \TeX{} Users Group}}{{UK \TeX{} Users
+  Group}}{2019}]%
+        {rubis}
+\bibfield{author}{\bibinfo{person}{{UK \TeX{} Users Group}}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{{UK} List of {\TeX} Frequently Asked Questions}.
+\newblock \bibinfo{howpublished}{\url{https://texfaq.org}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Veytsman, Schandl, Netherton, and
+  Radhakrishnan}{Veytsman et~al\mbox{.}}{2005}]%
+        {rubis-2}
+\bibfield{author}{\bibinfo{person}{Boris Veytsman}, \bibinfo{person}{Bern
+  Schandl}, \bibinfo{person}{Lee Netherton}, {and} \bibinfo{person}{C.~V.
+  Radhakrishnan}.} \bibinfo{year}{2005}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A package to create a nomenclature}}.
+\newblock
+\newblock
+\shownote{\url{http://www.ctan.org/pkg/nomencl}.}
+
+
+\end{thebibliography}

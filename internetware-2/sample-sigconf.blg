@@ -1,0 +1,43 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: sample-sigconf.aux
+The style file: ACM-Reference-Format.bst
+Database file #1: acmart.bib
+Repeated entry---line 25 of file acmart.bib
+ : @manual{GA
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 34 of file acmart.bib
+ : @manual{GA
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 43 of file acmart.bib
+ : @manual{GA
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 52 of file acmart.bib
+ : @manual{GA
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 61 of file acmart.bib
+ : @manual{GA
+ :           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 70 of file acmart.bib
+ : @manual{GA
+ :           ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "pmc"
+Warning--I didn't find a database entry for "saso"
+Warning--I didn't find a database entry for "mdp"
+Warning--I didn't find a database entry for "ar"
+Warning--I didn't find a database entry for "rps"
+Warning--I didn't find a database entry for "ept"
+Warning--I didn't find a database entry for "pmd"
+Warning--I didn't find a database entry for "lps"
+Warning--I didn't find a database entry for "worldcup"
+Warning--empty organization in cobra
+Warning--empty organization in mpc
+Warning--empty organization in pla
+Warning--empty organization in rubis-1
+Warning--empty organization in brownout
+Warning--empty organization in rubis-2
+(There were 6 error messages)
